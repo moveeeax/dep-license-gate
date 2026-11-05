@@ -31,3 +31,7 @@ dep-license-gate scan ./ --allow MIT,Apache-2.0,BSD-3-Clause \
 ## License
 
 MIT
+
+---
+
+Archived on 2026-11-05. The idea moved to [sbom-action](https://github.com/moveeeax/sbom-action/issues/2).
